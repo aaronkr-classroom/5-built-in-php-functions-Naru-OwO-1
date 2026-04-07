@@ -1,7 +1,7 @@
 <?php
 $text = 'Total: £444';
 ?>
-<?php include 'includes/header.php'; ?>
+
 
 <p>
   <b>Character count using <code>strlen()</code>:</b>
@@ -14,4 +14,3 @@ $text = 'Total: £444';
   <br>
 </p>
 
-<?php include 'includes/footer.php'; ?>
